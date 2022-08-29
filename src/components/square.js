@@ -5,7 +5,7 @@ function Square({value, onClick}) {
       onClick={onClick}>  
         {value}
       </button>
-  )                                                                           // to register the click and value assign to the squares
+  )
 }
 
 export default Square;
